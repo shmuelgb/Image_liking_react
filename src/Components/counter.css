@@ -1,0 +1,20 @@
+figure {
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  background-position: center center;
+  background-size: cover;
+}
+
+.counter {
+  display: inline-block;
+}
+
+.likes {
+  text-align: center;
+  margin-right: 100px;
+}
+.dislikes {
+  margin-left: 100px;
+  text-align: right;
+}
